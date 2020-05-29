@@ -1,0 +1,17 @@
+platform :ios, '9.0'
+source 'https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git'
+
+use_frameworks!
+# 压制库中所有警告
+
+inhibit_all_warnings!
+
+def pod_JRLibrary ()
+	pod 'Masonry', '1.1.0'
+  pod 'YogaKit'
+end  
+
+target '11111' do
+  
+  pod_JRLibrary()
+end

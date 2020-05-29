@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-11111/Pods-11111-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/Yoga/yoga.framework
+${BUILT_PRODUCTS_DIR}/YogaKit/YogaKit.framework
